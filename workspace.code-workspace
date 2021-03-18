@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\ornek\\camera\\images"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#14341A",
+			"titleBar.activeBackground": "#1C4924",
+			"titleBar.activeForeground": "#F5FBF6"
+		}
+	}
+}
