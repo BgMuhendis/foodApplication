@@ -1,4 +1,4 @@
-# yoresel
+# Türk Yöresel Mutfağı
 
 A new Flutter project.
 
